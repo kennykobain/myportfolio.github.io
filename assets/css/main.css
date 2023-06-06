@@ -41,6 +41,20 @@ blockquote, q {
 	quotes: none;
 }
 
+#course{
+	font-size: 1.5rem;
+	font-weight: bolder;
+	color: grey;
+	font-family: sans-serif;
+}
+
+#college{
+	font-size: 1rem;
+	font-weight: bolder;
+	color: green;
+	font-family: sans-serif;
+}
+
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
